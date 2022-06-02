@@ -3,7 +3,7 @@
 </div>
 
 ### About Me 
-- 🔭 I’m currently student at Sumatra Institute of Technology
+- 🔭 I’m currently student at <a href="https://www.itera.ac.id/">Sumatra Institute of Technology</a>
 - 📫 Contact me mriski.119140160@student.itera.ac.id
 
 ### Sosials 
