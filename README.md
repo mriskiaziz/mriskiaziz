@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align="center">
+  <img src=wgif.gif width="80%" height="60%">
+</div>
 
-<!--
-**mriskiaziz/mriskiaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🔭 I’m currently student at Sumatran Institute of Technology
+- 📫 Contact me mriski.119140160@student.itera.ac.id
 
-Here are some ideas to get you started:
+### Sosials
+<p align="left"> 
+  <a href="https://www.github.com/mriskiaziz" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a> 
+  <a href="http://www.instagram.com/mriski_aziz" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a> 
+  <a href="https://www.linkedin.com/in/m-riski-aziz-b3a854229/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a> 
+  <a href="https://www.twitter.com/RiskiAziz3" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a> 
+</p><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mriskiaziz&langs_count=8)
