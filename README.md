@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=wgif.gif>
+  <img src=wgif.gif height="70%" width="80%">
 </div>
 
 ### About Me 
