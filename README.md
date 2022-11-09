@@ -25,6 +25,4 @@
   </a>
 </p><br>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mriskiaziz&langs_count=8)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mriskiaziz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
